@@ -1,0 +1,11 @@
+{
+    "name": "phptagehe/stianberg",
+    "description": "The comparator hypothesis is a psychological model of associative learning and performance. To understand the model, it helps to consider how associative learning is usually studied.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+     "autoload": {
+        "psr-4": {"phptagehe\\Stianberg\\": "src/"}
+    },
+    "require": {}
+}
